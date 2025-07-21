@@ -16,7 +16,6 @@
 - 🔭 Currently building: `DevConnect` – an AI-enhanced Slack clone using Convex, Next.js, and Socket.IO
 - 🌱 Exploring: RAG architectures, Agentic AI, and advanced cloud infrastructure (AWS | Docker | Nginx)
 - 🧑‍🔬 AI Researcher at Samsung PRISM – Detecting Distracting Web Elements using Agentic AI
-- 🏆 4 Production apps live → Generated $10K+ in revenue
 - 🧠 Ranked in top **10% on Kaggle ML** and **top 10% on LeetCode** (750+ problems)
 - 🎓 Pursuing B.Tech | AWS Certified | Oracle DBMS Certified
 
